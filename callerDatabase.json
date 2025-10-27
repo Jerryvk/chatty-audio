@@ -1,0 +1,11 @@
+{
+  "callers": [
+    {
+      "number": "+31640584256",
+      "name": "Jerry",
+      "phonetic": "Djerrie",
+      "greeting": "https://raw.githubusercontent.com/JerryKatwijk/ChattyAudio/main/personal_greetings/31612345678.mp3",
+      "orders": []
+    }
+  ]
+}
