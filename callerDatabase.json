@@ -1,3 +1,11 @@
 {
-  "callers": [ ]
+  "callers": [
+    {
+      "number": "+31612345678",
+      "name": "Testpersoon",
+      "phonetic": "testpersoon",
+      "greeting": "",
+      "orders": []
+    }
+  ]
 }
