@@ -1,10 +1,10 @@
 {
   "callers": [
     {
-      "number": "+31640584256",
-      "name": "Jerry",
-      "phonetic": "Djerrie",
-      "greeting": "https://raw.githubusercontent.com/JerryKatwijk/ChattyAudio/main/personal_greetings/31612345678.mp3",
+      "number": "+31612345678",
+      "name": "Testpersoon",
+      "phonetic": "Tɛst-pər-soon",
+      "greeting": "https://example.com/test.mp3",
       "orders": []
     }
   ]
