@@ -6,6 +6,13 @@
       "phonetic": "testpersoon",
       "greeting": "",
       "orders": []
+    },
+    {
+      "number": "+31600000000",
+      "name": "Onbekend",
+      "phonetic": "onbekend",
+      "greeting": "",
+      "orders": []
     }
   ]
 }
